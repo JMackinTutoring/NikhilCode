@@ -1,3 +1,3 @@
 # NikhilCode
-Pytohn tutoring
+Python tutoring
 /////////
